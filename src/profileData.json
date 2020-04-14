@@ -1,0 +1,91 @@
+{
+	"landing": {
+		"firstName": "Shubham",
+		"lastName": "Mapara",
+		"phoneNumber": "8237317225",
+		"bio": "I'm an enthusiatic Web Developer. I have a great expirience in React and React-Native",
+    	"email": "mapara.shubham@gmail.com",
+    	"linkedin": "https://www.linkedin.com/in/mapara-shubham",
+		"github": "https://github.com/samapara",
+		"twitter": "https://www.twitter.com/shubhammapara",
+		"instagram": "https://www.instagram.com/_shubham12"
+	},
+	"experience": [
+		{
+			"position": "Android Developer",
+			"organization": "NPCI's Voice Based Payments Hackathon",
+			"aboutWork": "NPCI (National Payments Corporation of India) Voice-Based Payment Hackathon where we were required to develop an App that is completely based on voice input. We used CMU Pocketsphinx and Android Speech to Text recognizer for taking voice input and convert it to text. We also used RASA which is used to develop a smart chatbot. For Authentication, we included a Face Recognition Model which is based on SVM (Support Vector Machine) and Biometric Authentication. My major role was to develop UI and integrate with backend.",
+			"fromDate": "NOV 2019",
+			"toDate": "NOV 2019"
+		},
+		{
+				"position": "Full Stack Developer",
+				"organization": "PRIISH ™",
+				"aboutWork": "I was working with this company for full-stack development. I developed the full front end and back end for before login module. I also hosted it on Amazon AWS EC2 and managed it. Provided system maintenance and support procedures for logfiles update, database tables, and stored procedures. Worked with Jquery, HTML5, CSS3, Bootstrap for designing front-end and event handling. Java and Java Servlets for middleware and MySQL for Database.",
+				"fromDate": "DEC 2018",
+				"toDate": "FEB 2019"
+		},
+		{
+			"position": "Full Stack Developer",
+			"organization": "College Project - INFRASTRUCTURE ALLOCATION",
+			"aboutWork": "College Mini Project in which we created a system that would help the event organizers of college to easily check for availability of classrooms, labs, seminar halls, and an auditorium. He can also book using our system. I also built an admin side for all lab assistants to accept and reject the request made by organizers. The aim was to develop a fully automated booking of infrastructure.",
+			"fromDate": "AUG 2018",
+			"toDate": "OCT 2018"
+		}
+	],
+	"education": [{
+			"university": "Pune Institute Of Computer Technology, Pune",
+			"degree": "B.E",
+			"gpa": "CGPA: 8.61 / 10",
+			"fromDate": "AUG 2017",
+			"toDate": "JUN 2020"
+		},
+		{
+			"university": "STE’S Sou Venutai Chavan Polytechnic, Pune",
+			"degree": "Diploma",
+			"gpa": "Precentage: 90.50%",
+			"fromDate": "JUN 2014",
+			"toDate": "JUN 2017"
+		},
+		{
+			"university": "Bharati Vidyapeeth English Medium School, Pun",
+			"degree": "X",
+			"gpa": "CGPA: 7.6 / 10",
+			"fromDate": "TILL",
+			"toDate": "2014"
+		}
+	],
+	"skills": [{"name": "C"},{"name": "C++"},{"name":"HTML5"},{"name":"CSS 3"},{"name":"Java"},{"name":"PHP (Intermidiate)"},{"name":"Springboot"},{"name":"React JS"},{"name":"React Native"},{"name":"Android"},{"name":"Python"}
+	],
+	"CoCurricular": [
+		{
+			"interest": "Head of INC 2K19 Web Team."
+		},
+		{
+			"interest": "Head of Venue and Logistics Department at PICT CSI Student Branch."
+		},
+		{
+			"interest":"Event Head at CSI Student Branch for Event Let's Debug in Enthusia'19."
+		},
+		{
+			"interest":"Volunteer of PICT Addiction Audition Team 2018."
+		},
+		{
+			"interest":"Smart India Hackathon Finalist 2017."
+		},
+		{
+			"interest":"Volunteer at EC-Council Ciso Summit 2015."
+		}
+	],
+	"awards": [
+		{
+			"awardDetail": "Secured 1st rank for NPCI (National Payments Corporation of India) Voice Based Payments Hackathon 2019."
+		},
+		{
+			"awardDetail": "Secured 1st rank for project competition in diploma in G.H Raisoni College, Pune"
+		},
+		{
+			"awardDetail": "Achieved 2nd Runner Up for project competition in K. K. Wagh Polytechnic, Nashik."
+		}
+	]
+}
